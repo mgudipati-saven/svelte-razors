@@ -1,1 +1,1 @@
-export default 'http://localhost:1337'
+export default 'https://mg-svelte-store-server.herokuapp.com'
